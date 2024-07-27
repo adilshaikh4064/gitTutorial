@@ -24,3 +24,6 @@ This is a simple Markdown file to demonstrate some basic formatting.
 ```bash
 npm install
 ```
+
+--------------------------------
+this is a simple Markdown file to demonstrate some basic formatting.
